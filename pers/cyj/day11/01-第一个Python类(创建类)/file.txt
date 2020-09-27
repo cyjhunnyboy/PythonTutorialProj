@@ -1,0 +1,11 @@
+类名：Wife
+属性：sex, age, height, weight, faceValue
+行为：做饭, 洗衣服, 拖地, 揉肩, 捶腿
+
+类名：Husband
+属性：sex, age, height, weight, faceValue
+行为：吃饭，看电视， 打游戏，被揉肩，被捶腿
+
+类名：Car
+属性：color, type
+行为: 跑
